@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "man-c/pycoingecko",
+    "stargazers_count": 879,
+    "open_issues_count": 13,
+    "forks_count": 225
+  },
+  {
     "full_name": "sappkevin/leetcode",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -7,8 +13,8 @@
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 1749,
-    "open_issues_count": 69,
-    "forks_count": 926
+    "stargazers_count": 1764,
+    "open_issues_count": 57,
+    "forks_count": 938
   }
 ]
