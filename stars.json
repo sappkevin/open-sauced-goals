@@ -1,5 +1,29 @@
 [
   {
+    "full_name": "CryptozombiesHQ/cryptozombies-lesson-code",
+    "stargazers_count": 1781,
+    "open_issues_count": 24,
+    "forks_count": 792
+  },
+  {
+    "full_name": "terryum/awesome-deep-learning-papers",
+    "stargazers_count": 23992,
+    "open_issues_count": 34,
+    "forks_count": 4479
+  },
+  {
+    "full_name": "pharmapsychotic/clip-interrogator",
+    "stargazers_count": 193,
+    "open_issues_count": 0,
+    "forks_count": 34
+  },
+  {
+    "full_name": "CompVis/stable-diffusion",
+    "stargazers_count": 23793,
+    "open_issues_count": 221,
+    "forks_count": 3672
+  },
+  {
     "full_name": "man-c/pycoingecko",
     "stargazers_count": 888,
     "open_issues_count": 13,
@@ -13,8 +37,8 @@
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 1822,
-    "open_issues_count": 80,
-    "forks_count": 966
+    "stargazers_count": 1848,
+    "open_issues_count": 62,
+    "forks_count": 976
   }
 ]
