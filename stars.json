@@ -1,56 +1,56 @@
 [
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 28703,
-    "open_issues_count": 1310,
-    "forks_count": 5374
+    "stargazers_count": 29033,
+    "open_issues_count": 1309,
+    "forks_count": 5443
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 78180,
-    "open_issues_count": 564,
-    "forks_count": 17571
+    "stargazers_count": 78366,
+    "open_issues_count": 547,
+    "forks_count": 17610
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10193,
+    "stargazers_count": 10196,
     "open_issues_count": 11,
     "forks_count": 705
   },
   {
     "full_name": "CryptozombiesHQ/cryptozombies-lesson-code",
-    "stargazers_count": 1990,
+    "stargazers_count": 1995,
     "open_issues_count": 26,
-    "forks_count": 875
+    "forks_count": 876
   },
   {
     "full_name": "terryum/awesome-deep-learning-papers",
-    "stargazers_count": 24203,
+    "stargazers_count": 24208,
     "open_issues_count": 34,
     "forks_count": 4495
   },
   {
     "full_name": "pharmapsychotic/clip-interrogator",
-    "stargazers_count": 722,
+    "stargazers_count": 736,
     "open_issues_count": 13,
-    "forks_count": 144
+    "forks_count": 149
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 39362,
-    "open_issues_count": 426,
-    "forks_count": 6122
+    "stargazers_count": 39540,
+    "open_issues_count": 429,
+    "forks_count": 6161
   },
   {
     "full_name": "man-c/pycoingecko",
-    "stargazers_count": 945,
+    "stargazers_count": 946,
     "open_issues_count": 16,
-    "forks_count": 247
+    "forks_count": 248
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 2377,
-    "open_issues_count": 76,
-    "forks_count": 1272
+    "stargazers_count": 2415,
+    "open_issues_count": 75,
+    "forks_count": 1284
   }
 ]
