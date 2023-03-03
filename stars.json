@@ -1,45 +1,45 @@
 [
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 40949,
-    "open_issues_count": 1492,
-    "forks_count": 7599
+    "stargazers_count": 42714,
+    "open_issues_count": 1531,
+    "forks_count": 7898
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 82809,
-    "open_issues_count": 553,
-    "forks_count": 18253
+    "stargazers_count": 83299,
+    "open_issues_count": 528,
+    "forks_count": 18316
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10265,
+    "stargazers_count": 10270,
     "open_issues_count": 11,
-    "forks_count": 711
+    "forks_count": 712
   },
   {
     "full_name": "CryptozombiesHQ/cryptozombies-lesson-code",
-    "stargazers_count": 2026,
+    "stargazers_count": 2031,
     "open_issues_count": 27,
-    "forks_count": 900
+    "forks_count": 901
   },
   {
     "full_name": "terryum/awesome-deep-learning-papers",
-    "stargazers_count": 24277,
+    "stargazers_count": 24294,
     "open_issues_count": 34,
     "forks_count": 4501
   },
   {
     "full_name": "pharmapsychotic/clip-interrogator",
-    "stargazers_count": 959,
-    "open_issues_count": 19,
-    "forks_count": 204
+    "stargazers_count": 984,
+    "open_issues_count": 21,
+    "forks_count": 208
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 43596,
-    "open_issues_count": 468,
-    "forks_count": 6819
+    "stargazers_count": 44110,
+    "open_issues_count": 472,
+    "forks_count": 6871
   },
   {
     "full_name": "man-c/pycoingecko",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "neetcode-gh/leetcode",
-    "stargazers_count": 2579,
-    "open_issues_count": 97,
-    "forks_count": 1368
+    "stargazers_count": 2586,
+    "open_issues_count": 102,
+    "forks_count": 1374
   }
 ]
