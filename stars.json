@@ -1,63 +1,63 @@
 [
   {
     "full_name": "mckaywrigley/prompts",
-    "stargazers_count": 574,
+    "stargazers_count": 628,
     "open_issues_count": 1,
-    "forks_count": 60
+    "forks_count": 66
   },
   {
     "full_name": "dair-ai/Prompt-Engineering-Guide",
-    "stargazers_count": 26613,
-    "open_issues_count": 28,
-    "forks_count": 2181
+    "stargazers_count": 26966,
+    "open_issues_count": 34,
+    "forks_count": 2233
   },
   {
     "full_name": "Significant-Gravitas/Auto-GPT",
-    "stargazers_count": 109964,
-    "open_issues_count": 574,
-    "forks_count": 18912
+    "stargazers_count": 116685,
+    "open_issues_count": 580,
+    "forks_count": 21646
   },
   {
     "full_name": "nas5w/interview-guide",
-    "stargazers_count": 1901,
+    "stargazers_count": 1903,
     "open_issues_count": 5,
     "forks_count": 88
   },
   {
     "full_name": "mckaywrigley/paul-graham-gpt",
-    "stargazers_count": 2163,
+    "stargazers_count": 2191,
     "open_issues_count": 3,
-    "forks_count": 313
+    "forks_count": 315
   },
   {
     "full_name": "mckaywrigley/storybook-ai",
-    "stargazers_count": 54,
+    "stargazers_count": 57,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "mckaywrigley/clarity-ai",
-    "stargazers_count": 465,
+    "stargazers_count": 473,
     "open_issues_count": 1,
-    "forks_count": 87
+    "forks_count": 88
   },
   {
     "full_name": "mckaywrigley/chatbot-ui-lite",
-    "stargazers_count": 712,
+    "stargazers_count": 721,
     "open_issues_count": 3,
-    "forks_count": 129
+    "forks_count": 140
   },
   {
     "full_name": "mckaywrigley/ai-code-translator",
-    "stargazers_count": 2932,
+    "stargazers_count": 2970,
     "open_issues_count": 18,
-    "forks_count": 342
+    "forks_count": 358
   },
   {
     "full_name": "mckaywrigley/chatbot-ui",
-    "stargazers_count": 11968,
-    "open_issues_count": 224,
-    "forks_count": 2904
+    "stargazers_count": 12314,
+    "open_issues_count": 239,
+    "forks_count": 3053
   },
   {
     "full_name": "twitterdev/Bookmarks-Notion-Notebook",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "replicate/controlnet",
-    "stargazers_count": 116,
+    "stargazers_count": 118,
     "open_issues_count": 0,
-    "forks_count": 53
+    "forks_count": 56
   },
   {
     "full_name": "huggingface/huggingface.js",
-    "stargazers_count": 802,
-    "open_issues_count": 22,
+    "stargazers_count": 805,
+    "open_issues_count": 23,
     "forks_count": 36
   },
   {
     "full_name": "lllyasviel/ControlNet",
-    "stargazers_count": 17920,
-    "open_issues_count": 214,
-    "forks_count": 1627
+    "stargazers_count": 18142,
+    "open_issues_count": 220,
+    "forks_count": 1663
   },
   {
     "full_name": "Nutlope/bobrossextension",
@@ -109,73 +109,73 @@
   },
   {
     "full_name": "Nutlope/news-summarizer",
-    "stargazers_count": 241,
+    "stargazers_count": 243,
     "open_issues_count": 4,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "Nutlope/restorePhotos",
-    "stargazers_count": 2734,
+    "stargazers_count": 2748,
     "open_issues_count": 8,
-    "forks_count": 330
+    "forks_count": 332
   },
   {
     "full_name": "Nutlope/twitterbio",
-    "stargazers_count": 1159,
+    "stargazers_count": 1172,
     "open_issues_count": 20,
-    "forks_count": 314
+    "forks_count": 322
   },
   {
     "full_name": "Nutlope/roomGPT",
-    "stargazers_count": 6805,
-    "open_issues_count": 35,
-    "forks_count": 668
+    "stargazers_count": 6838,
+    "open_issues_count": 36,
+    "forks_count": 678
   },
   {
     "full_name": "AUTOMATIC1111/stable-diffusion-webui",
-    "stargazers_count": 68489,
-    "open_issues_count": 2038,
-    "forks_count": 12833
+    "stargazers_count": 69580,
+    "open_issues_count": 2060,
+    "forks_count": 13080
   },
   {
     "full_name": "huggingface/transformers",
-    "stargazers_count": 95831,
-    "open_issues_count": 669,
-    "forks_count": 19951
+    "stargazers_count": 96747,
+    "open_issues_count": 675,
+    "forks_count": 20070
   },
   {
     "full_name": "girliemac/a-picture-is-worth-a-1000-words",
-    "stargazers_count": 10355,
+    "stargazers_count": 10368,
     "open_issues_count": 12,
-    "forks_count": 720
+    "forks_count": 718
   },
   {
     "full_name": "CryptozombiesHQ/cryptozombies-lesson-code",
-    "stargazers_count": 2073,
+    "stargazers_count": 2077,
     "open_issues_count": 28,
-    "forks_count": 919
+    "forks_count": 922
   },
   {
     "full_name": "terryum/awesome-deep-learning-papers",
-    "stargazers_count": 24422,
+    "stargazers_count": 24428,
     "open_issues_count": 34,
-    "forks_count": 4511
+    "forks_count": 4512
   },
   {
     "full_name": "pharmapsychotic/clip-interrogator",
-    "stargazers_count": 1465,
-    "open_issues_count": 28,
-    "forks_count": 293
+    "stargazers_count": 1482,
+    "open_issues_count": 27,
+    "forks_count": 296
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 52191,
-    "open_issues_count": 473,
-    "forks_count": 8102
+    "stargazers_count": 52543,
+    "open_issues_count": 476,
+    "forks_count": 8146
   },
   {
     "full_name": "man-c/pycoingecko",
-    "stargazers_count": 972,
+    "stargazers_count": 973,
     "open_issues_count": 15,
     "forks_count": 258
   }
