@@ -1,45 +1,45 @@
 [
   {
     "full_name": "ryanto/next-s3-upload",
-    "stargazers_count": 579,
+    "stargazers_count": 580,
     "open_issues_count": 34,
-    "forks_count": 78
+    "forks_count": 79
   },
   {
     "full_name": "All-Hands-AI/OpenHands",
-    "stargazers_count": 37820,
+    "stargazers_count": 37998,
     "open_issues_count": 235,
-    "forks_count": 4276
+    "forks_count": 4293
   },
   {
     "full_name": "usual2970/certimate",
-    "stargazers_count": 4932,
-    "open_issues_count": 34,
-    "forks_count": 441
+    "stargazers_count": 4968,
+    "open_issues_count": 35,
+    "forks_count": 445
   },
   {
     "full_name": "Nutlope/llamacoder",
-    "stargazers_count": 3652,
-    "open_issues_count": 31,
-    "forks_count": 600
+    "stargazers_count": 3662,
+    "open_issues_count": 32,
+    "forks_count": 603
   },
   {
     "full_name": "Nutlope/llamatutor",
-    "stargazers_count": 1469,
+    "stargazers_count": 1470,
     "open_issues_count": 9,
-    "forks_count": 233
+    "forks_count": 232
   },
   {
     "full_name": "dialectlabs/actions",
-    "stargazers_count": 87,
+    "stargazers_count": 89,
     "open_issues_count": 1,
     "forks_count": 154
   },
   {
     "full_name": "replicate/cog",
-    "stargazers_count": 8127,
-    "open_issues_count": 408,
-    "forks_count": 565
+    "stargazers_count": 8136,
+    "open_issues_count": 409,
+    "forks_count": 566
   },
   {
     "full_name": "martinxu9/claude-investor",
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "speechbrain/speechbrain",
-    "stargazers_count": 8993,
-    "open_issues_count": 145,
-    "forks_count": 1406
+    "stargazers_count": 9019,
+    "open_issues_count": 146,
+    "forks_count": 1408
   },
   {
     "full_name": "python-telegram-bot/python-telegram-bot",
-    "stargazers_count": 26441,
-    "open_issues_count": 25,
+    "stargazers_count": 26470,
+    "open_issues_count": 26,
     "forks_count": 5356
   },
   {
@@ -67,37 +67,37 @@
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 100501,
-    "open_issues_count": 1259,
-    "forks_count": 8013
+    "stargazers_count": 100962,
+    "open_issues_count": 1263,
+    "forks_count": 8059
   },
   {
     "full_name": "mshumer/gpt-prompt-engineer",
-    "stargazers_count": 9394,
+    "stargazers_count": 9400,
     "open_issues_count": 33,
-    "forks_count": 644
+    "forks_count": 645
   },
   {
     "full_name": "mshumer/gpt-investor",
-    "stargazers_count": 2241,
+    "stargazers_count": 2242,
     "open_issues_count": 16,
     "forks_count": 283
   },
   {
     "full_name": "dogecoin/dogecoin",
-    "stargazers_count": 14712,
+    "stargazers_count": 14724,
     "open_issues_count": 234,
-    "forks_count": 2891
+    "forks_count": 2893
   },
   {
     "full_name": "openai/whisper",
-    "stargazers_count": 72203,
+    "stargazers_count": 72348,
     "open_issues_count": 84,
-    "forks_count": 8597
+    "forks_count": 8617
   },
   {
     "full_name": "StanfordBDHG/HealthGPT",
-    "stargazers_count": 1705,
+    "stargazers_count": 1706,
     "open_issues_count": 5,
     "forks_count": 150
   },
@@ -109,27 +109,27 @@
   },
   {
     "full_name": "sh-lee-prml/HierSpeechpp",
-    "stargazers_count": 1185,
+    "stargazers_count": 1186,
     "open_issues_count": 23,
-    "forks_count": 136
+    "forks_count": 135
   },
   {
     "full_name": "yl4579/StyleTTS2",
-    "stargazers_count": 5005,
+    "stargazers_count": 5010,
     "open_issues_count": 68,
-    "forks_count": 423
+    "forks_count": 425
   },
   {
     "full_name": "BartoszJarocki/cv",
-    "stargazers_count": 9029,
-    "open_issues_count": 27,
-    "forks_count": 987
+    "stargazers_count": 9031,
+    "open_issues_count": 25,
+    "forks_count": 992
   },
   {
     "full_name": "lllyasviel/Fooocus",
-    "stargazers_count": 41766,
+    "stargazers_count": 41811,
     "open_issues_count": 247,
-    "forks_count": 5972
+    "forks_count": 5986
   },
   {
     "full_name": "saviomartin/slickr",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "magic-research/magic-animate",
-    "stargazers_count": 10508,
-    "open_issues_count": 104,
-    "forks_count": 1077
+    "stargazers_count": 10514,
+    "open_issues_count": 105,
+    "forks_count": 1079
   },
   {
     "full_name": "ethereum/pm",
-    "stargazers_count": 1600,
-    "open_issues_count": 8,
+    "stargazers_count": 1602,
+    "open_issues_count": 9,
     "forks_count": 326
   },
   {
     "full_name": "mshumer/gpt-llm-trainer",
-    "stargazers_count": 3970,
+    "stargazers_count": 3972,
     "open_issues_count": 23,
-    "forks_count": 506
+    "forks_count": 507
   },
   {
     "full_name": "passivebot/midjourney-automation-bot",
@@ -165,17 +165,17 @@
     "full_name": "yachty66/unofficial_midjourney_python_api",
     "stargazers_count": 88,
     "open_issues_count": 2,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "yt-dlp/yt-dlp",
-    "stargazers_count": 91657,
-    "open_issues_count": 1723,
-    "forks_count": 7124
+    "stargazers_count": 91964,
+    "open_issues_count": 1721,
+    "forks_count": 7156
   },
   {
     "full_name": "LangbaseInc/langui",
-    "stargazers_count": 2543,
+    "stargazers_count": 2547,
     "open_issues_count": 6,
     "forks_count": 130
   }
