@@ -1,15 +1,15 @@
 [
   {
     "full_name": "trycua/cua",
-    "stargazers_count": 22171,
-    "open_issues_count": 780,
-    "forks_count": 1528
+    "stargazers_count": 22326,
+    "open_issues_count": 818,
+    "forks_count": 1544
   },
   {
     "full_name": "microsoft/agent-framework",
-    "stargazers_count": 13314,
-    "open_issues_count": 645,
-    "forks_count": 2255
+    "stargazers_count": 13378,
+    "open_issues_count": 600,
+    "forks_count": 2275
   },
   {
     "full_name": "rlancemartin/llmstxt_architect",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 106808,
-    "open_issues_count": 850,
-    "forks_count": 14525
+    "stargazers_count": 106858,
+    "open_issues_count": 830,
+    "forks_count": 14541
   },
   {
     "full_name": "AllAboutAI-YT/pi-terminal",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 27682,
-    "open_issues_count": 545,
-    "forks_count": 2726
+    "stargazers_count": 27784,
+    "open_issues_count": 551,
+    "forks_count": 2741
   },
   {
     "full_name": "Eigenwise/atomic-agents",
-    "stargazers_count": 6220,
+    "stargazers_count": 6228,
     "open_issues_count": 5,
-    "forks_count": 535
+    "forks_count": 537
   },
   {
     "full_name": "mufasadb/ai-lego-bricks",
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 67442,
-    "open_issues_count": 1203,
-    "forks_count": 7278
+    "stargazers_count": 67652,
+    "open_issues_count": 1269,
+    "forks_count": 7306
   },
   {
     "full_name": "abshkbh/arrakis",
-    "stargazers_count": 868,
+    "stargazers_count": 869,
     "open_issues_count": 8,
     "forks_count": 87
   },
   {
     "full_name": "github/github-mcp-server",
-    "stargazers_count": 32700,
-    "open_issues_count": 311,
-    "forks_count": 4894
+    "stargazers_count": 32800,
+    "open_issues_count": 326,
+    "forks_count": 4934
   },
   {
     "full_name": "huggingface/agents-course",
-    "stargazers_count": 32165,
-    "open_issues_count": 162,
-    "forks_count": 2299
+    "stargazers_count": 32293,
+    "open_issues_count": 163,
+    "forks_count": 2315
   },
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 38051,
-    "open_issues_count": 64,
-    "forks_count": 4201
+    "stargazers_count": 38096,
+    "open_issues_count": 65,
+    "forks_count": 4214
   },
   {
     "full_name": "modelcontextprotocol/servers",
-    "stargazers_count": 90066,
-    "open_issues_count": 481,
-    "forks_count": 11552
+    "stargazers_count": 90146,
+    "open_issues_count": 497,
+    "forks_count": 11589
   },
   {
     "full_name": "facebookresearch/seamless_communication",
     "stargazers_count": 11852,
     "open_issues_count": 252,
-    "forks_count": 1178
+    "forks_count": 1177
   },
   {
     "full_name": "VxASI/blender-mcp-vxai",
@@ -121,33 +121,33 @@
   },
   {
     "full_name": "OpenHands/OpenHands",
-    "stargazers_count": 86128,
-    "open_issues_count": 647,
-    "forks_count": 11293
+    "stargazers_count": 86757,
+    "open_issues_count": 679,
+    "forks_count": 11367
   },
   {
     "full_name": "certimate-go/certimate",
-    "stargazers_count": 9263,
-    "open_issues_count": 58,
-    "forks_count": 895
+    "stargazers_count": 9282,
+    "open_issues_count": 54,
+    "forks_count": 898
   },
   {
     "full_name": "Nutlope/llamacoder",
-    "stargazers_count": 7124,
+    "stargazers_count": 7125,
     "open_issues_count": 9,
-    "forks_count": 1678
+    "forks_count": 1679
   },
   {
     "full_name": "Nutlope/llamatutor",
-    "stargazers_count": 2050,
+    "stargazers_count": 2051,
     "open_issues_count": 11,
-    "forks_count": 339
+    "forks_count": 340
   },
   {
     "full_name": "replicate/cog",
-    "stargazers_count": 9467,
-    "open_issues_count": 74,
-    "forks_count": 697
+    "stargazers_count": 9470,
+    "open_issues_count": 75,
+    "forks_count": 698
   },
   {
     "full_name": "martinxu9/claude-investor",
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "speechbrain/speechbrain",
-    "stargazers_count": 11801,
+    "stargazers_count": 11805,
     "open_issues_count": 182,
-    "forks_count": 1722
+    "forks_count": 1721
   },
   {
     "full_name": "python-telegram-bot/python-telegram-bot",
-    "stargazers_count": 29447,
-    "open_issues_count": 38,
-    "forks_count": 6144
+    "stargazers_count": 29455,
+    "open_issues_count": 40,
+    "forks_count": 6147
   },
   {
     "full_name": "ashutoshkrris/Telegram-Horoscope-Bot",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "ollama/ollama",
-    "stargazers_count": 180106,
-    "open_issues_count": 3896,
-    "forks_count": 17674
+    "stargazers_count": 180442,
+    "open_issues_count": 3930,
+    "forks_count": 17762
   }
 ]
